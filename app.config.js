@@ -11,7 +11,7 @@ module.exports = {
     orientation: "portrait",
     icon: "./assets/images/icon.png",
     userInterfaceStyle: "automatic",
-    newArchEnabled: true,
+    newArchEnabled: false,
     android: {
       package: "com.app.ruscalai",
       adaptiveIcon: {
