@@ -13,7 +13,6 @@ module.exports = {
     userInterfaceStyle: "automatic",
     newArchEnabled: true,
     android: {
-      jsEngine: "jsc",
       package: "com.app.ruscalai",
       adaptiveIcon: {
         backgroundColor: "#E6F4FE",
